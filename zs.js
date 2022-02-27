@@ -5,7 +5,7 @@ export let options = {
   //noConnextionRefuse: false,
   insecureSkipTLSVerify: true,
   stages: [
-      { duration: "1h", target: 20 },
+      { duration: "1h", target: 100 },
   ]
 }
 
